@@ -3,3 +3,4 @@
 ## Integrantes:
 
 - Israel Danilo Blas Salas 
+- Victor Manuel Chavez Bruno
