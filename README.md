@@ -5,3 +5,4 @@
 - Israel Danilo Blas Salas 
 - Victor Manuel Chavez Bruno
 - William Frank Guadalupe Quispe
+- Bryan Stuard Asmat Franco
